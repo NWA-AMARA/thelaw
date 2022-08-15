@@ -1,0 +1,132 @@
+ .navbar{
+    text-align:right;
+    margin-top: 70px;
+    padding-right: 80px;  
+}
+
+.contact{
+  border: 2px solid orange;
+  border-radius: 2px;
+}
+
+.navbar a{
+  text-decoration: none;
+  padding: 14px 16px;
+  font-size: 20px;
+  color: white;
+}
+
+.obi{
+  text-align: center;
+  color: white;
+  margin-top: 150px;
+  font-size: 75px;
+  font-family: serif;
+line-height: 1.1;
+margin-bottom: 8px;
+}
+
+.about{
+  margin-left: 600px;
+  color: white;
+  font-size: 500%;
+}
+
+.willam{
+    background-color:white;
+    height:800px;
+    width: 100%;
+    display: flex;
+    top:30px; 
+  }
+  
+  .ody{
+    top: 100px;
+    position: relative;
+    display: block;
+    justify-content: space-around;
+    align-content: center;
+    text-align:left;
+    left: 150px;
+    font-size: 20px;
+  }
+
+  .aboutimg{
+    height: 400px;
+    width: 500px;
+    padding-left: 170px;
+    margin-top: 250px;
+  
+  }
+
+.friday{
+  background-image: url(../THELAW.IMAGES/back.jpg);
+  height: 900px;
+  width: 100%;
+  position: absolute;
+margin-top:750PX;
+left: 30PX;
+}
+
+.saturday{
+  background-color:white;
+  height:650px;
+  width:85%;
+  position: relative;
+  top: 150px;
+  left: 120px;
+  display: flex;
+}
+
+.sunday{
+  padding-left: 100px;
+}
+
+.fafa{
+  position: absolute;
+  left: 909px;
+  display:inline-block;
+  top: 20px
+  
+}
+.fafa i{
+  position: relative;
+  padding: 14px 16px;
+  font-size: 20px;
+  border: 1px solid rgb(182, 171, 171);
+}
+.fafa :hover{
+  color: #ff974f;
+}
+
+.lasty{
+  position: relative;
+  top: 150px;
+  right: 20px;
+  font-size: 30px;
+  left: 50px;
+}
+
+
+.message{
+  font-size: 16px;
+}
+
+
+input{
+  width: 550px;
+  height: 50px;
+  font-size: 16px;
+  left: 20px;
+}
+.into{
+  width: 150px;
+  margin-left: 380px;
+  border:NONE;
+  background-color:#ff974f;
+  color: white;
+  border-radius: 2PX;
+}
+.into:hover{
+background-color:#ff8127;
+}
